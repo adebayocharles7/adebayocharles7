@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adebayocharles7
-- 👀 I’m interested in python and data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in php and javascript
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me @adebayofemi07 on twitter
 
 <!---
