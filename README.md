@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Oluwafemi
-### 💻 Fullstack web and Backend Developer (Laravel, PHP, Node.js)
+### 💻 Fullstack web and Backend Developer (Laravel, C#, Node.js)
 - 👀 I’m interested in web development and backend systems
 - ⚙️ Building RESTful APIs and scalable backend systems
 - 🌱 I’m currently leveling up in:
